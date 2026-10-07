@@ -55,7 +55,7 @@ A between-subjects 2 × 2 factorial design crossed:
 
 ## 3. PEER REVIEW FEEDBACK (COGNITION EVALUATION) & CORRESPONDING METHODOLOGICAL DEVIATIONS
 
-Following evaluation by three expert reviewers and the handling editor at *Cognition*, several substantial concerns were identified regarding theoretical framing, analytical choices, and transparency. Below is an itemized breakdown of reviewer critique and the exact analytical adjustments implemented in response:
+Following evaluation by three expert reviewers and the handling editor at *Cognition* (here this original draft submited: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6677514), several substantial concerns were identified regarding theoretical framing, analytical choices, and transparency. Below is an itemized breakdown of reviewer critique and the exact analytical adjustments implemented in response:
 
 ### 3.1 Theoretical Status of Kinematic Velocity & Theoretical Claims
 - **Reviewer Feedback (R1, R2, R3, Editor):** Reviewers noted that testing whether speed affects capture is not inherently surprising if framed as an arbitrary feature, and questioned the contribution relative to Kreitz et al. (2016) and Wallisch et al. (2023). Reviewers also warned against overstated claims ("gates access to conscious perception", "absolute barrier").

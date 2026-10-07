@@ -7,7 +7,7 @@
 **Authors:** Emilien Brochet, Julien Tardieu, & Céline Lemercier
 **Institutional Affiliation:** CLLE (CNRS, Université de Toulouse Jean Jaurès), MSHS-T, France
 **Institutional Ethics Approval:** CER Université de Toulouse (CER 2025-1048)
-**Date of first Deposit on OSF:** 26 March 2026
+**Date of first Deposit on OSF:** 26 March 2025
 
 ---
 

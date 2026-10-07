@@ -137,5 +137,4 @@ To ensure empirical conclusions do not depend on arbitrary operational decisions
 All files are archived in the repository and minted with a permanent Zenodo DOI:
 1. `datasethighspeed5.csv` and `datasetlowspeed5.csv`: Raw data tables exported from Cognition.run.
 2. `dataset_combined.csv`: Harmonized analysis dataset across Trials 1 to 5.
-3. `expé2 english.js` and `expé2french_1seul essai critique.js`: Full jsPsych experimental timeline scripts.
-4. `analysis_pipeline.qmd` / `.Rmd`: Fully reproducible analysis scripts generating all GLMs, mixed models, Bayes Factors, and multiverse specification figures.
+3. `high speeded targets.js` and `low speeded targets.js`: Full jsPsych experimental scripts.

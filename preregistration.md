@@ -1,5 +1,5 @@
 # RECONSTITUTED POST-DATA-COLLECTION TRANSPARENCY PROTOCOL & RECONSTRUCTED ANALYSIS PLAN
-**Repository (GitHub):** https://github.com/[YOUR-USERNAME]/[YOUR-REPOSITORY]
+**Repository (GitHub):** https://github.com/EmilienB-Bop/preregistration_inattentional_blindness_brochet_1
 **Permanent Archive & DOI (Zenodo):** https://doi.org/10.5281/zenodo.[RECORD_ID]
 **Original OSF Overview Container:** https://osf.io/c5v6g/overview
 **Target Journal:** *Psychonomic Bulletin & Review* (Empirical Brief Report)
